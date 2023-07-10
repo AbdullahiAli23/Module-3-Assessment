@@ -1,10 +1,10 @@
 body {
-  background: #ddd;
-  margin: 1rem;
-  padding: 1rem;
-  max-width: 500px;
-  margin: 2rem auto;
-  font-family: "Open Sans", sans-serif;
+	background: #ddd;
+	margin: 1rem;
+	padding: 1rem;
+	max-width: 500px;
+	margin: 2rem auto;
+	font-family: "Open Sans", sans-serif;
 }
 
 nav {
@@ -36,6 +36,13 @@ input {
 img {
 	max-width: 300px;
 }
-.inline{
+
+.inline {
 	display: inline-block;
+}
+
+.fav-btn {
+	background: yellow;
+	padding: 1.5rem;
+	margin: .25rem;
 }

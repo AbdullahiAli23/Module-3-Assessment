@@ -15,5 +15,5 @@ form.addEventListener('submit', handleSubmit);
 
 const img = document.querySelector("img");
 img.addEventListener("mouseover", function(){
-	alert("Cute cat")
+	alert("You look great today.")
 })
